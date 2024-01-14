@@ -46,10 +46,11 @@ body{
     text-align: center;
 }
 
-#text-div h3{
+#text-div h1{
 text-align: center;
 font-weight: 700;
 color: var(--darkBlue);
+font-size: 18px;
 }
 
 #text-div p{
